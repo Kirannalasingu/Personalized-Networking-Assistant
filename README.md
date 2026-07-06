@@ -102,7 +102,7 @@ personalized_networking_assistant/
 Clone the repository
 
 ```bash
-git clone https://github.com/harikameka/personalized_networking_assistant.git
+git clone https://github.com/kirannalasingu/personalized_networking_assistant.git
 ```
 
 Go to the project directory
