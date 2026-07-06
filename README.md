@@ -250,7 +250,7 @@ Add screenshots here:
 
 **Harika Meka**
 
-GitHub: https://github.com/harikameka
+GitHub: https://github.com/kirannalasingu
 
 ---
 
